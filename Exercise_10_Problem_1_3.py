@@ -59,8 +59,9 @@ print(geodata.head())
 # - Save the output as a Shapefile called `shopping_centers.shp` 
 
 # Define output filepath
-out_fp = None
+out_fp = r"shopping_centers.shp"
 # YOUR CODE HERE 5 to save the output
+geodata.to_file(out_fp)
 
 # TEST CODE
 # Print info about output file
