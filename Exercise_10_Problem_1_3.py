@@ -144,5 +144,10 @@ print(round(azabu["PTN_2020"].sum()), "people live within 1.5 km from National A
 # - What was difficult?
 
 # YOUR ANSWER HERE
+#Problem 1 : 5
+#Problem 2 : 5
+#Problem 3 : 5
+#It was difficult to geocode the shopping center address correctly. The code becomes complicated and I don't know if the output result is output correctly. 
+
 
 # Well done!
